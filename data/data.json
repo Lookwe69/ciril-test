@@ -1,0 +1,11 @@
+{
+    "dimension": {
+        "width": 25,
+        "height": 25
+    },
+    "startCases": [
+        [10, 10],
+        [18, 15]
+    ],
+    "probability": 0.6
+}
